@@ -11,8 +11,8 @@ desde los cuales podremos interactuar con la aplicación para visualizar ayuda, 
 
 De forma paralela, se realiza un registro de todas las acciones realizadas por el usuario, el cual
 se almacena en la carpeta 'src/recursos', tras validar los datos del mismo en el formulario, se 
-posibilita la opción de exportacion de estos, con lo que quedarán registrados de forma persistente
-en el directorio antes citada
+posibilita la opción de exportacion de estos, con lo que quedarán registrados de forma permanente
+en el directorio antes citado.
 
 Para facilitar la puesta en marcha de la aplicación se proporcionan varios ejecutables '.jar' con
 el proyecto construido y listo para ser ejecutado de manera gráfica.
