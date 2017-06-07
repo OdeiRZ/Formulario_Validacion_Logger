@@ -14,8 +14,8 @@ se almacena en la carpeta 'src/recursos', tras validar los datos del mismo en el
 posibilita la opción de exportacion de estos, con lo que quedarán registrados de forma permanente
 en el directorio antes citado.
 
-Para facilitar la puesta en marcha de la aplicación se proporcionan varios ejecutables '.jar' con
-el proyecto construido y listo para ser ejecutado de manera gráfica.
+Para facilitar la puesta en marcha de la aplicación se proporciona un ejecutable '.jar' con el 
+proyecto construido y listo para ser ejecutado de manera gráfica.
 
 ## Requisitos
 - [Java] 7 o superior (para ejecutar la Aplicación)
