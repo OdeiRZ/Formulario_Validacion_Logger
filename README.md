@@ -1,4 +1,4 @@
-Formulario Validacion Logger 0.9
+Formulario Validación Logger 0.9
 ================================
 
 Aplicación desarrollada en Java que habilita un formulario de registro con funciones de logger
